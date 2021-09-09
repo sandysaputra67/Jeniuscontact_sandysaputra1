@@ -12,8 +12,7 @@ Features:
 
 Requirement
 ---------------
-- latest react-native cli command
-- latest nodejs
+- latest react-native
 - latest npm or yarn
 - latest git
 - read more at https://facebook.github.io/react-native/docs/getting-started.html
