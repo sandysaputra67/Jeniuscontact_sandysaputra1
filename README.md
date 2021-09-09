@@ -1,7 +1,7 @@
 React Native Simple CRUD Contact App
 ===================
 
-This is a mobile application that created to fulfil job test on JENIUS. This application is created using React Native 0.59.10. API used in this project: https://simple-contact-crud.herokuapp.com/documentation
+This application is created using React Native 0.59.10. API used in this project: https://simple-contact-crud.herokuapp.com/documentation
 
 Features:
 ------------------
